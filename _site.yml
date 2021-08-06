@@ -1,0 +1,24 @@
+name: "YvM Blog"
+title: "YvM Blog"
+base_url: https://yourivm.github.io/
+description: |
+  Website for YvM
+exclude: ["README.md", "README.html"]
+theme: _config.yml
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Articles"
+      href: articles.html
+    - text: "MS 365"
+      href: 
+    - text: "Talks"
+      href: 
+    - text: "CV"
+      href: 
+    - text: "Blog"
+      href: blog.html
+    - icon: fab fa-github
+      href: 
